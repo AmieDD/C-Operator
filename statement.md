@@ -1,6 +1,7 @@
-# Welcome!
+# C# ++ Operator
 
-This C# template lets you get started quickly with a simple one-page playground.
+www.amiedd.com
+Amiedd - Code, Cosplay and Games
 
 ```C# runnable
 // { autofold
