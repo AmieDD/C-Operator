@@ -11,7 +11,10 @@ class Hello
     static void Main() 
     {
 // }
-
+double d = 1.5;
+Console.WriteLine(d);   // output: 1.5
+Console.WriteLine(++d); // output: 2.5
+Console.WriteLine(d);   // output: 2.5
 Console.WriteLine("Hello World!");
 
 // { autofold
